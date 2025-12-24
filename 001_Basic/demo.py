@@ -24,11 +24,15 @@
 
 # print("Python","Java","Php","Android",sep=" | ")
 
-name = "abc"
-email = "abc@gmail.com"
+# name = "abc"
+# email = "abc@gmail.com"
 
 # print("my name is {1} and email is {0}".format(name,email))
 
-print(f"my name is {name} and email is {email}")
+# print(f"my name is {name} and email is {email}")
 
+
+
+# a = input("Enter number : ")
+# print(a)
 
