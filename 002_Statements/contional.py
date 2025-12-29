@@ -42,3 +42,18 @@ c =300
 # 35 - 50 : d 
 # 0 - 34 : f 
 # -invalid input if out of range
+
+
+# choice = 4
+
+# match choice:
+#     case 1: 
+#         print("Gujarati")
+#     case 2 : 
+#         print("Hindi")
+#     case 3 : 
+#         print("english")
+#     case _:
+#         print("Invalid input")
+
+
